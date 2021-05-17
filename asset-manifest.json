@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/project-psychopompt-elts/static/css/main.7e935c3f.chunk.css",
+    "main.js": "/project-psychopompt-elts/static/js/main.5c1d5df0.chunk.js",
+    "main.js.map": "/project-psychopompt-elts/static/js/main.5c1d5df0.chunk.js.map",
+    "runtime-main.js": "/project-psychopompt-elts/static/js/runtime-main.974ad84b.js",
+    "runtime-main.js.map": "/project-psychopompt-elts/static/js/runtime-main.974ad84b.js.map",
+    "static/js/2.18527aa6.chunk.js": "/project-psychopompt-elts/static/js/2.18527aa6.chunk.js",
+    "static/js/2.18527aa6.chunk.js.map": "/project-psychopompt-elts/static/js/2.18527aa6.chunk.js.map",
+    "index.html": "/project-psychopompt-elts/index.html",
+    "precache-manifest.7f45e75514caba575dfc331185877b61.js": "/project-psychopompt-elts/precache-manifest.7f45e75514caba575dfc331185877b61.js",
+    "service-worker.js": "/project-psychopompt-elts/service-worker.js",
+    "static/css/main.7e935c3f.chunk.css.map": "/project-psychopompt-elts/static/css/main.7e935c3f.chunk.css.map",
+    "static/js/2.18527aa6.chunk.js.LICENSE.txt": "/project-psychopompt-elts/static/js/2.18527aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.974ad84b.js",
+    "static/js/2.18527aa6.chunk.js",
+    "static/css/main.7e935c3f.chunk.css",
+    "static/js/main.5c1d5df0.chunk.js"
+  ]
+}
